@@ -1,0 +1,28 @@
+name: Andromeda Descendants
+key: adfamily
+color: purple
+emblem: Diamond_Star_01
+sort: trophy
+info:
+  logo: 
+  description: >
+    Andromeda Descendants is the haven for those interested in an eSports
+    environment and competetive war clan gameplay. We are an organized and
+    aggresive clan family that has clans stretching over multiple levels of
+    play. We offer professional coaching and community events for free in our
+    Discord server. Come become an Andromeda Descendant today.
+  social:
+    - discord: https://discord.gg/adfamily
+clans:
+  - name: Hawaiian Beast
+    tag: P2RPJQ2R
+  - name: Fight Club USA
+    tag: JGU2YLR
+  - name: #active
+    tag: 8PYL9U28
+  - name: FUBAR
+    tag: PGG2CYPG
+  - name: dementiods
+    tag: LJYJLPPQ
+  - name: Andromeda L2W
+    tag: GU8YJ28C
